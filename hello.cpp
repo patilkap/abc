@@ -11,5 +11,4 @@ int main(){
 	if (truth == false){
 		std::cout <<  "Bye!";
 	}
-	return 0;
-}
+	return 0;}
