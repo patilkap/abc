@@ -3,7 +3,7 @@
 int main(){
 
 	bool truth;
-	truth=true;
+	truth=false;
 
 	if (truth){
 	std::cout<<"Hello world!";
@@ -12,3 +12,4 @@ int main(){
 		std::cout <<  "Bye!";
 	}
 	return 0;}
+
